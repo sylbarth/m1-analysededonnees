@@ -5,10 +5,12 @@
 Ce cours vise à fournir les bases théoriques et pratiques des principales méthodes d’analyse de données et une introduction au machine learning supervisé.
 À l'issue du cours, les étudiants seront capables de :
 
-1. Appliquer des méthodes de réduction de dimension telles que l'Analyse en Composantes Principales (ACP) et l'Analyse Factorielle des Correspondances (AFC).
-2. Réaliser des analyses de regroupement (clustering) avec des méthodes non supervisées.
-3. Comprendre et implémenter des techniques supervisées comme les arbres de décision et les forêts aléatoires.
-4. Interpréter les résultats à l’aide d’outils comme les matrices de confusion.
+1. Appliquer des méthodes de réduction de dimension telles que l'Analyse en Composantes
+Principales (ACP) et l'Analyse Factorielle des Correspondances (AFC), sous R.
+2. Réaliser des analyses de regroupement (clustering) avec des méthodes non supervisées (CAH, K-means).
+3. Comprendre et implémenter des techniques supervisées comme les arbres de décision et
+les forêts aléatoires.
+4. Interpréter les résultats en analysant les sorties des différents algorithmes étudiés.
 
 
 ## **Plan du cours**
