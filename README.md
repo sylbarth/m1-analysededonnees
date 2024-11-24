@@ -10,7 +10,6 @@ Ce cours vise à fournir les bases théoriques et pratiques des principales mét
 3. Comprendre et implémenter des techniques supervisées comme les arbres de décision et les forêts aléatoires.
 4. Interpréter les résultats à l’aide d’outils comme les matrices de confusion.
 
----
 
 ## **Plan du cours**
 
@@ -28,8 +27,6 @@ Ce cours vise à fournir les bases théoriques et pratiques des principales mét
   - Visualisation des variables et des individus.
   - Étude pratique.
 
----
-
 ### **Partie 2 : Clustering**
 - **Session 3 : Classification Ascendante Hiérarchique (CAH)**  
   - Concepts : distance, agglomération et dendrogramme.
@@ -42,8 +39,6 @@ Ce cours vise à fournir les bases théoriques et pratiques des principales mét
   - Critères d’initialisation et d’arrêt.
   - Comparaison K-Means vs CAH.
   - Cas pratique.
-
----
 
 ### **Partie 3 : Introduction au Machine Learning supervisé**
 - **Session 5 : CART (Classification and Regression Trees)**  
@@ -62,15 +57,6 @@ Ce cours vise à fournir les bases théoriques et pratiques des principales mét
   - Analyse des erreurs dans les modèles supervisés.
   - Atelier : interprétation des matrices de confusion sur des données réelles.
 
----
-
-## **Évaluation**
-- **Quiz et exercices** : Application directe des concepts et présentation au début du cours.
-- **Projet final** : Étude de cas avec restitution à l'oral, en cours.
-
----
-
-N'hésitez pas à adapter ce syllabus selon le niveau des étudiants et les attentes du cours.
 
 ## Projets
 
@@ -84,3 +70,7 @@ N'hésitez pas à adapter ce syllabus selon le niveau des étudiants et les atte
 - Choisissez un seul sujet parmis ceux proposés.
 - Groupes de 2 personnes max.
 - Enregistrez votre groupe ici: https://tinyurl.com/mrxj3f6f
+
+## **Évaluation**
+- **Quiz et exercices** : Application directe des concepts et présentation au début du cours.
+- **Projet final** : Étude de cas avec restitution à l'oral, en cours.
