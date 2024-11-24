@@ -17,7 +17,8 @@ Ce cours vise à fournir les bases théoriques et pratiques des principales mét
 ### **Partie 1 : Introduction aux méthodes de réduction de dimension**
 - **Session 1 : Analyse en Composantes Principales (ACP)**  
   - Concepts fondamentaux : variance, composantes principales.
-  - Calcul des vecteurs propres et valeurs propres.
+  - Principe de calcul des vecteurs propres et valeurs propres.
+  - Utilisation du critères du coude et du critère de Kaiser 
   - Visualisation et interprétation des résultats.
   - Étude de cas : ACP sur des données multivariées (avec R ou Python).
 
@@ -25,7 +26,7 @@ Ce cours vise à fournir les bases théoriques et pratiques des principales mét
   - Spécificités de l’AFC : données qualitatives et tableau de contingence.
   - Méthodes d’interprétation des axes et contributions.
   - Visualisation des variables et des individus.
-  - Étude pratique : AFC appliquée à des enquêtes ou des données catégoriques.
+  - Étude pratique.
 
 ---
 
@@ -34,19 +35,18 @@ Ce cours vise à fournir les bases théoriques et pratiques des principales mét
   - Concepts : distance, agglomération et dendrogramme.
   - Méthode de Ward et optimisation des regroupements.
   - Validation du nombre de clusters (critères et tests).
-  - Exemple d'application : segmentation de clients.
+  - Exemple d'application.
 
 - **Session 4 : K-Means**  
-  - Introduction aux algorithmes itératifs de clustering.
+  - Principe de fonctionnement de l'algorithme de K-Means.
   - Critères d’initialisation et d’arrêt.
   - Comparaison K-Means vs CAH.
-  - Cas pratique : partitionnement de données avec K-Means.
+  - Cas pratique.
 
 ---
 
 ### **Partie 3 : Introduction au Machine Learning supervisé**
 - **Session 5 : CART (Classification and Regression Trees)**  
-  - Théorie : segmentation de l’espace des données, impurité et entropie.
   - Construction d’un arbre de décision.
   - Visualisation et interprétation des règles.
   - Exemple : prédiction avec un arbre de décision.
@@ -58,7 +58,7 @@ Ce cours vise à fournir les bases théoriques et pratiques des principales mét
   - Atelier : comparaison des performances CART vs Random Forest.
 
 - **Session 7 : Les matrices de confusion**  
-  - Définition et importance des métriques : précision, rappel, F1-score.
+  - Définition et importance des métriques : sensibilité, spécificité, précision.
   - Analyse des erreurs dans les modèles supervisés.
   - Atelier : interprétation des matrices de confusion sur des données réelles.
 
