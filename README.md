@@ -24,7 +24,7 @@ les forêts aléatoires.
   - Étude de cas : ACP sur des données multivariées (avec R ou Python).
 
 - **Session 2 : Analyse Factorielle des Correspondances (AFC)**  
-  - Spécificités de l’AFC : données qualitatives et tableau de contingence.
+  - Spécificités de l’AFC.
   - Méthodes d’interprétation des axes et contributions.
   - Visualisation des variables et des individus.
   - Étude pratique.
