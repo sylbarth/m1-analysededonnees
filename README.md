@@ -72,6 +72,7 @@ les forêts aléatoires.
 - Choisissez un seul sujet parmis ceux proposés.
 - Groupes de 2 personnes max.
 - Enregistrez votre groupe ici: https://tinyurl.com/mrxj3f6f
+- Lundi 2 décembre, le code final ainsi que la présentation devront être déposés ici: https://tinyurl.com/y459dh7u
 
 ## **Évaluation**
 - **Quiz et exercices** : Application directe des concepts et présentation au début du cours.
